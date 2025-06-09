@@ -41,9 +41,9 @@ h1 {
 ### **Day 1: Meet Your Drone & First Flights**
 *Monday, 8 AM–12 PM*
 
-### Presenter:
+### Facilitators:
 
-**Garth Tuck**
+**Garth Tuck and Davina Kamikazi**
 
 ---
 
