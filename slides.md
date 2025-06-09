@@ -79,6 +79,69 @@ h1 {
 - Overview of the week
 
 ---
+layout: two-cols-header
+---
+
+### 🏆 **Random Teams**
+
+::left::
+
+**Team 1**
+
+* Ashley
+* Drake
+* Zahar
+
+**Team 2**
+
+* Caleb
+* Jack
+
+**Team 3**
+
+* Hannah
+* Colton
+* Oleksiy
+
+**Team 4**
+
+* Maxine
+* Gunner
+* Corbin F.
+
+::right::
+
+**Team 5**
+
+* Ryan
+* Jocelyn
+* Conner
+
+**Team 6**
+
+* Calvin
+* Elisabeth
+* Ellen
+
+**Team 7**
+
+* Kairi
+* Corbin B.
+* Torren
+
+**Team 8**
+
+* Russell
+* Hazel
+* Greyson
+
+**Team 9**
+
+* Samuel
+* Denali
+* Kaleb
+
+---
 
 ## The World of Drones  
 - Modern uses: Science, Commerce, Military  
