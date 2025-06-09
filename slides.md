@@ -79,6 +79,53 @@ h1 {
 - Overview of the week
 
 ---
+
+### 🗓 **Overview of the Week**
+
+**Mon–Wed**
+
+**Day 1 (Mon):**
+🚁 **Meet Your Drone & First Flights**
+
+* Unbox, pair, and fly your drone
+* Safety & troubleshooting
+* Practice basic maneuvers
+
+**Day 2 (Tue):**
+🎮 **Master Remote Flight**
+
+* Advanced flight skills with controller
+* Practice agility & precision
+* Flight challenges in the canopy zones
+
+**Day 3 (Wed):**
+💻 **Code Your Drone**
+
+* Intro to drone programming
+* Basic coded flight missions
+* Practice loops, conditionals & sequences
+
+---
+
+### 🗓 **Overview of the Week**
+
+**Thu–Fri**
+
+**Day 4 (Thu):**
+🗺️ **Refine Flight Skills**
+
+* Combine manual + coded flight
+* Prepare for Drone Expedition
+* Practice team rotations
+
+**Day 5 (Fri):**
+🏆 **Drone Expedition Competition**
+
+* 3 scored rounds per team
+* Showcase your best flying & teamwork
+* Awards & camp wrap‑up
+
+---
 layout: two-cols-header
 ---
 
