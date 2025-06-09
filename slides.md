@@ -102,11 +102,11 @@ Hannah, Colton, Oleksiy
 
 Maxine, Gunner, Corbin F.
 
-::right::
-
 **Team 5**
 
 Ryan, Jocelyn, Conner
+
+::right::
 
 **Team 6**
 
