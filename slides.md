@@ -9,7 +9,7 @@ colorSchema: dark
 favicon: "https://garthtuck.com/images/favicon.ico"
 
 # some information about your slides (markdown enabled)
-title: Title Goes Here
+title: Drone Camp - Day 1
 class: text-center
 layout: center
 
@@ -36,14 +36,11 @@ h1 {
 
 <br>
 
-**Title Goes here**
+**Drone Camp - Day 01**
 
 ### Presenter:
 
 **Garth Tuck**
---- 
-title: "Drone Camp – Day 1 Agenda"
-layout: cover
 
 ---
 
