@@ -87,59 +87,33 @@ layout: two-cols-header
 ::left::
 
 **Team 1**
-
-* Ashley
-* Drake
-* Zahar
+Ashley, Drake, Zahar
 
 **Team 2**
-
-* Caleb
-* Jack
+Caleb, Jack
 
 **Team 3**
-
-* Hannah
-* Colton
-* Oleksiy
+Hannah, Colton, Oleksiy
 
 **Team 4**
-
-* Maxine
-* Gunner
-* Corbin F.
+Maxine, Gunner, Corbin F.
 
 ::right::
 
 **Team 5**
-
-* Ryan
-* Jocelyn
-* Conner
+Ryan, Jocelyn, Conner
 
 **Team 6**
-
-* Calvin
-* Elisabeth
-* Ellen
+Calvin, Elisabeth, Ellen
 
 **Team 7**
-
-* Kairi
-* Corbin B.
-* Torren
+Kairi, Corbin B., Torren
 
 **Team 8**
-
-* Russell
-* Hazel
-* Greyson
+Russell, Hazel, Greyson
 
 **Team 9**
-
-* Samuel
-* Denali
-* Kaleb
+Samuel, Denali, Kaleb
 
 ---
 
