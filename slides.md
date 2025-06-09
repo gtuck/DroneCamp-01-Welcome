@@ -36,17 +36,14 @@ h1 {
 
 <br>
 
-**Drone Camp - Day 01**
+**🚁 Drone Camp**
+
+### **Day 1: Meet Your Drone & First Flights**
+*Monday, 8 AM–12 PM*
 
 ### Presenter:
 
 **Garth Tuck**
-
----
-
-## 🚁 Drone Camp  
-### **Day 1: Meet Your Drone & First Flights**  
-*Monday, 8 AM–12 PM*
 
 ---
 
